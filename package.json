@@ -25,6 +25,8 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1001.2",
+    "angularfire2": "^5.4.2",
+    "firebase": "^7.23.0",
     "@angular/cli": "~10.1.2",
     "@angular/compiler-cli": "~10.1.2",
     "@types/node": "^12.11.1",
